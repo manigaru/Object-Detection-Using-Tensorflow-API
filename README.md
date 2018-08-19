@@ -1,5 +1,11 @@
 
 # Tensorflow Object Detection API
+
+1. Google's TensorFlow API must be downloaded. This is the first step.
+2. The main files for the object detection are "webcam.py" and "webcams.py".
+3. These files have to be run from the "object_detection" folder. 
+
+# Tensorflow Object Detection API
 Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
 The TensorFlow Object Detection API is an open source framework built on top of
